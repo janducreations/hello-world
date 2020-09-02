@@ -5,4 +5,4 @@ FROM gitpod/workspace-full-vnc
 # RUN brew install bastet
 #
 # More information: https://www.gitpod.io/docs/config-docker/
-RUN sudo apt-get install blender
+RUN sudo snap install blender
