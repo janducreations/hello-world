@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: sudo snap install blender --classic
+    command: 'echo "TODO: Replace with command to start project"'
